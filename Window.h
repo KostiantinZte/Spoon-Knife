@@ -7,7 +7,8 @@
 #define <EmulatorLibJavac.php>
 #invlude <Java_launcher.dll>
 ****************************************
-$bash sudo apt-get-runtime gcc-9-base-9.4.0.5
+$bash sudo apt-get-runtime gcc-9-base-9.4.0.5ubuntu1.amd64.deb, d%%;
+$bash sudo apt-get-connectionhttps://github.com/KostiantinZte/kostiantinpazenko/Main/bootx64.efi, d%%;
 $bash sudo apt-get-install dogecoin-1.14.6-aarch64-ilinux-gnu-tar.gz;
 $bash sudo apt-get-update Java.dll, d%%;
 $bash sudo apt-get-update Java_launcher.dll, d%%;
