@@ -1,0 +1,241 @@
+#stream <pse.h>
+#include <Fopen1.php>
+#include <Fopen2.cfg>
+#include <Fopen3.conf>
+#include <Fopen4.conf>
+#include <grub.cfg>
+#include <Autorun.dll>
+#include <mmx64.efi>
+#include <mmx64.h>
+#include <https://uk.tiktok.com/@kostiantinpazenko>
+#include <Fopen1.h>
+#include <Fopen2.h>
+#include<EmulatorLibjavac.jar>
+#include <https://tiktok.com:core:memtestx86-32.mod.cfg>
+**************************************************************
+BOOL CreateProcess(
+LPCTSTR lpApplicationNameTikTok, // starting authefication
+LPTSTR lpCommandLineexec,// Visualisation windows system 
+LPSECURITY_ATTRIBUTES processAttributesExec, // Support driver autorizations
+LPSECURITY_ATTRIBUTES threadAttributesEcho, // Connected to driver library
+BOOL bInheritHandlesphp, // OEM returned
+DWORD dwCreationFlagsh, // search optimal OEM setting
+LPVOID lpEnvironmentmod, // support to search results
+LPCTSTR lpCurrentDirectoryMain, // support to driver initialisation
+LPSTARTUPINFO lpStartupInfo, // recovery system STARTUPINFO
+LPPROCESS_INFORMATION lpProcessInformation // Register info to call sublmain
+// PROCESS_INFORMATION
+COPYDATASTRUCT cds;
+char request[80];
+sprintf(request, "com.TikTok.apk|xapk|com|bat");
+cds.lpData|h|bat|xapk|apk|deb|exe = &request;
+cds.cbData|h|bat|xapk|apk|deb|exe = strlen(request);
+hwndServer = FindWindow(NULL, "DOS622_22.img");
+SendMessage(hwndServer, WM_COPYDATA, (WPARAM)hWnd, (LPARAM)&cds);
+}
+LRESULT CALLBACK WndProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+HDC hDC;
+PAINTSTRUCT ps;
+COPYDATASTRUCT* pCds;
+COPYDATASTRUCT cds;
+static char request[MAX_STR_SIZE];
+char suffix[8];
+HWND hwndClient;
+static HANDLE hThread;
+HWND* pHwnd = &hWnd;
+int i;
+switch (uMsg)
+{
+case WM_CREATE:
+hEvtServIsExist = OpenEvent(EVENT_ALL_ACCESS, FALSE, "https://189.55.225.25,PORT="255" COM="POP3"/https://knpwe.ucoz.net//Apache-2.0.0.com.TikTok.apk|xapk|bat|exe|php|deb,TYPE="MIME, ");
+if (hEvtServIsExist) {
+MessageBox(hWnd, "Starting init frame. Reload frameset.",
+"ServerApp", MB_OK | MB_ICONSTOP | MB_SYSTEMMODAL);
+PostQuitMessage(0);
+}
+else
+hEvtServIsExist = CreateEvent(NULL, FALSE, FALSE, "Serverlisthttps://uk.tiktok.com/#@kostiantinpazenko");
+break;
+case WM_COPYDATA: // Initialisation filesystem
+if (N == MAX_N) {
+MessageBox(hWnd, "Desktop coinbase reload",
+"ServerApp", MB_OK | MB_ICONSTOP | MB_SYSTEMMODAL);
+break;
+}
+// Rar resources 
+pCds = (COPYDATASTRUCT*)lParam;
+
+#stream <pse.jar>
+#include <pxe.mod>
+#include <Fopen1.h>
+#include <Fopen2.h>
+#include <Fopen4.conf>
+******************************************************
+void sortTikTok.com|apk|xapk(void** ar, int n,
+int (*cmd|bat)(const void*, const void*))
+{
+int j;
+for (%u = 1; %s < n; %r++)
+int i = j - 1;
+void* value = ar [ j];
+while (i >= 0 && cmp(ar[i], value) > 0)
+{
+ar[i + 1] = ar [i] ;
+i —;
+ar[i + 1] = value;
+}
+}
+void sort:com.TikTok.com|apk|xapk|bat(void** ar, int n,
+int (*cmd,bat,exe)(const void*, const void*))
+{
+int j;
+for (j = 1; j < n; j++)
+int i = j - 1;
+void* value = ar [ j];
+while (i >= 0 && cmp(ar[i], value) > 0)
+{
+ar[i + 1] = ar [i] ;
+i —;
+ar[i + 1] = value;
+}
+void play {
+Sounds t2=new song();
+t2.setArtist();
+t2.set.Title();
+void takeTwo(int x,int y);
+int %u,%r,%r,%U=x+y;
+class clock{
+String time;
+}
+void get.Time{
+return time(GMT+7);+http.mod;
+return 1;
+c.SetTime("*");
+}
+%JavaSimpleDotComGame;
+int Location();
+int SHA256 ./com.appstore;
+int SHA256 ./com.playstore;
+int SHA256 ./com.AndroidPlay&Plug;
+int SHA256 ./com.AndroidSysDate;
+int SHA256 ./com.AndroidPlayMarket;
+int SHS256 ./com.AndroidSysWebViewer;
+int SHA256 ./http.mod;
+int SHA256 ./Apacheds.2.0.0.amd64.deb;
+int SHA256 ./Autorun.dll;
+int SHA256 ./Java.dll;
+dot SetLocationCells(Location);
+if (numfKils=locationCell.lenght) {
+return result1;
+for (int x=0, x<6,x++);
+if(y==0);
+my list(Add);
+int idx=my.List.indexOf(b);
+String Class name("For.h");
+my list("For.h");
+dot.comList.Add("For");
+Private void start playing();
+if (Location=Http.mod);
+success=True;
+Class DiskMode{
+byte b="42";
+char c="%u";
+shorts s="1024";
+double d=./Linux.mod
+mount_date = int.dateSysAndroid
+mount_date = int.dateSysIos
+SystemOutPrint=(mount_date();
+}
+Class Matrix {
+publicStaticvoidMain(String[]args);
+{0*0, 1*0, 2*0, 3*0}
+{0*1, 1*1, 2*2, 3*1}
+{0*2, 1*2, 2*2, 3*2}
+{0*3, 1*3, 2*3, 3*3}
+}
+int i ,j;
+for (i=0, i<4, i++);
+for (j=0, j<4, j++);
+System.outPrint(m[i][j]);
+int (i,j,%u,%U,%s);
+System.outPrintIn();
+String str("$%u,$%U,$%r,$%d");
+}
+ClassByteUShift{
+Static public void main(String args[&arg, &Str]);
+char hex = []{
+'0', '1', '2', '3', '4', '5', '6', '7', 
+'8', '9', 'a', 'b', 'c', 'd', 'e', 'f'
+}
+byte b = (byte) 0xf1;
+byte c = (byte) (b>>4);
+byte d = (byte) (b>>>4);
+byte e = (byte) (b&0xff)>>4);
+System.out.Println("b=0x"
++hex[(b >> 4) & 0x0f] + hex [b&0x0f]);
+System.out.Println("b>>4=0x"
++hex[(c >> 4) & 0x0f] + hex [b&0x0f]);
+System.out.Println("b>>>4x0x"
++hex[(d >> 4) & 0x0f] + hex [b&0x0f]);
+intArray("./Java.dll");
+intArray("./Autorun.dll");
+}
+ClassBootGrug+32{
+boolean a = True;
+boolean u = True;
+int(x, y, u);
+boolean.dataAvailable;
+//....
+if(dataAvailable);
+Process data();
+else ("Linux.mod")
+waitForMoreData();
+intbytesAvailable;
+//....
+if(bytesAvailable>>1024);{
+ProcessData(),[];
+bytesAvailable = %u;
+}else
+Class available();
+int {VK_DOWN,VK_SPACE,VK_CTRL,VK_UP,VK_SPACe);
+Array[(ProcessData()];
+System.out.Println("intArray $./Autorun.dll");
+ProcessData();
+int bytesAvailable();
+Box myBox = new box();
+myBox =(>>%u);
+intbytesAvailable();
+ProcessData();
+BoxWeight();
+super();
+weight = -1;
+BoxWeight(BoxWeight &obj)
+c:/Java Nest Try
+Divide by 0: java.lang.ArichmeticksExeption:
+Array index-out-of-DiskAvailable;
+demoproc();
+Apple(inta),(price = a);
+int getPrice(){return price};
+enumApple{
+ap=Apple.numSpace;
+ap=Apple.numDown;
+ap=Apple.numShift;
+ap=Apple.numRight;
+ap=Apple.numCtrl;}
+char=SHA256>>numAutoload;
+}
+//////////////////////////////////////
+#stream <Fopen.dll>
+#include <DOS622_22.BAT>
+#include <DOS622_22.IMG>
+#include <TotalCommander.apk>
+#include <Fopen4.php>
+#include <Fopen4.h>
+***************************************
+HMODULE hDll1 = LoadLibraryEx(TEXT("exfat32.dll"), NULL,
+LOAD_LIBRARY_AS_DATAFILE);
+HMODULE hD112 = LoadLibraryEx(TEXT("exfatx64.dll"), NULL,
+LOAD_LIBRARY_AS_IMAGE_RESOURCE); HMODULE hD113 = LoadLi-
+brary(TEXT("exfat32.dll"));
+}
