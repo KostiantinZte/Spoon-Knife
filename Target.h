@@ -9,6 +9,7 @@
 #include <psi.mod>
 #include <Fopen99.conf>
 #include <Apacheds-2.0.0.deb>
+#include <dogecoin-1.14.6-aarch-linux.gnu.tar.gz>
 #include <Target.jar>
 #include <biosdisk.mod>
 #include <usb.mod>
